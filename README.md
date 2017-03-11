@@ -1,2 +1,2 @@
 # myrepo
-my version
+my version 2
